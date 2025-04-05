@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kaddons" name="KAddon Repository" version="1.0" provider-name="KAddon">
+    <extension point="xbmc.addon.repository" name="KAddon Kodi Repository">
+        <dir>
+            <info compressed="false">https://github.com/rmokate2023/kaddons/raw/main/zips/addons.xml</info>
+            <checksum>https://github.com/rmokate2023/kaddons/raw/main/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/rmokate2023/kaddons/raw/main/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>KAddon Kodi Repository</summary>
+        <description>https://github.com/rmokate2023/kaddons/</description>
+        <website>https://github.com/rmokate2023/kaddons/</website>
+        <platform>all</platform>
+    </extension>
+</addon>
