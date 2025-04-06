@@ -11,7 +11,7 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary>Einthusan Video Addon - Updated</summary>
-        <description>Einthusan Video Addon for Kodi 20+ - Supports XBMC Python 3</description>
+        <description>Einthusan Video Addon for new Kodi with Python 3</description>
         <assets>
             <icon>icon.png</icon>
             <fanart>icon.png</fanart>
@@ -30,7 +30,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>KAddons Kodi Repository</summary>
         <description>https://github.com/rmokate2023/kaddons/</description>
-        <website>https://github.com/rmokate2023/kaddons/</website>
+        <website>https://rmokate2023.github.io/</website>
         <platform>all</platform>
     </extension>
 </addon>

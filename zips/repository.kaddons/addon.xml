@@ -10,7 +10,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>KAddon Kodi Repository</summary>
         <description>https://github.com/rmokate2023/kaddons/</description>
-        <website>https://github.com/rmokate2023/kaddons/</website>
+        <website>https://rmokate2023.github.io/</website>
         <platform>all</platform>
     </extension>
 </addon>
