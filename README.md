@@ -8,3 +8,4 @@
 
 #### Steps to install from zip:
 * Install From ZIP [plugin.video.einthusan-3.0.zip](plugin.video.einthusan-3.0.zip)
+* Install From ZIP [plugin.video.einthusan-3.1.zip](plugin.video.einthusan-3.1.zip)
