@@ -7,4 +7,4 @@
 * Install [repository.kaddons.zip](repository.kaddons.zip)
 
 #### Steps to install from zip:
-* Install From ZIP [plugin.video.einthusan-3.0.zip](plugin.video.einthusan-3.0.zip)
+* Install From ZIP(NEW) [plugin.video.einthusan-3.0.zip](plugin.video.einthusan-3.0.zip)
